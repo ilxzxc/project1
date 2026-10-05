@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project1\\project1.csproj",
+      "projectUniqueName": "D:\\project1\\project1\\project1.csproj",
       "projectName": "project1",
-      "projectPath": "D:\\project1\\project1.csproj",
+      "projectPath": "D:\\project1\\project1\\project1.csproj",
       "packagesPath": "C:\\Users\\iliak\\.nuget\\packages\\",
-      "outputPath": "D:\\project1\\obj\\",
+      "outputPath": "D:\\project1\\project1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iliak\\AppData\\Roaming\\NuGet\\NuGet.Config"
